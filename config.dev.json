@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "dailybleu44@gmail.com",
+    "password": "sangoku",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100083695043563"
+    "10008035576042"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🔥..𝗚𝗛𝗢𝗦𝗧..💧",
-  "prefix": "=",
+  "nickNameBot": "ʬɸʬ Blåzė Nøvã ʬɸʬ",
+  "prefix": "¥",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
